@@ -85,7 +85,7 @@ header .navbar
 {
     display: grid;
     gap: 40vh;
-    height: 77.5vh;
+    height: 80vh;
     background-image: linear-gradient(to bottom, #006483, #7eebef);
     font-family: sans-serif;
     font-weight: 300;
@@ -128,7 +128,7 @@ header .navbar
     background-image: linear-gradient(to bottom right, #3858ca, #ae7fff);
     width: 80vh;
     height: 80vh;
-    top: 110vh;
+    top: 107vh;
     left: 65vh;
     border-radius: 50%;
     z-index: -1;
